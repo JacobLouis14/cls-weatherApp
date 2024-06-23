@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+.heading img {
+  width: 200px;
+}
+#dataIcon {
+  width: 100px;
+}
+.dataWrapper {
+  padding-top: 50px;
+  color: white;
+}
+.dataWrapper h3 {
+  font-size: 60px;
+}
+.dataWrapper h6 {
+  font-size: 20px;
+}
